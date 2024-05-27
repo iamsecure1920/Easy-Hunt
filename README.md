@@ -27,8 +27,8 @@ Before running the Easy-Hunt script, ensure you have the following prerequisites
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/iamsecure1920/Easy-Hunt
+   cd Easy-Hunt
    ```
 
 2. **Install Go language:**
