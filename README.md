@@ -111,8 +111,4 @@ For any questions or suggestions, feel free to open an issue or contact the repo
    ./Easy-Hunt.sh example.com
    ```
 
----
 
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the directory name, respectively. You can further customize the README to fit the specifics of your script and its features.
-
-Let me know if you need any additional information or modifications!
