@@ -21,6 +21,11 @@ Before running the Easy-Hunt script, ensure you have the following prerequisites
 - Go language
 - jq (for JSON processing)
 - Necessary tools (installed via `./Easy-Hunt.sh --install`)
+- Else you can following commands to install uddup & jq
+  ```bash
+  pip install  uddup
+  apt install jq
+  ```
 
 ## Installation
 
