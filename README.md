@@ -1,5 +1,3 @@
-Based on your previous README file, here is a new README file for the enhanced Easy Hunt tool:
-
 ```markdown
 # Enhanced Easy Hunt
 
@@ -159,7 +157,7 @@ For any questions or suggestions, feel free to open an issue or contact the repo
 
 ```
 
-This README provides a detailed overview of the Enhanced Easy Hunt tool, including its features, prerequisites, installation instructions, usage examples, and script details. It also includes sections for contributing, licensing, and contact information. Adjust the repository URL and other specific details as necessary.
+
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/11282884/a762ff67-0726-4ab2-8478-23b8318198e1/README.md
