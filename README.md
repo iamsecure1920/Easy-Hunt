@@ -1,7 +1,3 @@
-Here's an enhanced version of your README file, following standard practices and providing clear guidance on using and setting up the **Enhanced Easy Hunt** project.
-
----
-
 # Enhanced Easy Hunt
 
 **Enhanced Easy Hunt** is a Bash script designed to automate the bug bounty hunting process. This advanced version integrates AI-enhanced analysis, offering a comprehensive suite of tools for efficient and thorough security assessments.
